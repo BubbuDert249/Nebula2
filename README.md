@@ -1,2 +1,2 @@
 # Nebula2
-Open-Source Source 2 Engine Port for Android
+Note: This project does not distribute any proprietary game content. Users must supply their own game assets. <br>
